@@ -1,5 +1,5 @@
-# FMWD-1
-胖蚊子手环
+# PMWD-1
+胖喵手环
 
 
 ## 主要设计
@@ -44,7 +44,7 @@
 
     类似浏览器的 API 环境
 
-  - FMLH 小蚊 (AI 小助手) she-os
+  - PMLH 小喵 (AI 小助手) she-os
 
 
 TODO

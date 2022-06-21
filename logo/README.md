@@ -1,4 +1,4 @@
-# fm-d/logo
+# fm-d/logo/
 
 胖蚊子图标.
 

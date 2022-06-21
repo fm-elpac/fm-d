@@ -1,4 +1,4 @@
-# fm-d/doc
+# fm-d/doc/
 
 全局文档.
 

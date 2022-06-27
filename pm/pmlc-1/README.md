@@ -37,7 +37,8 @@
 
 + 虚拟机: KVM/qemu, libvirt
 
-+ 基础设施层 (IaaS): openstack (虚拟机)
++ 基础设施层 (IaaS):
+  openstack (虚拟机, object 存储)
 
 + 平台层 (PaaS): k8s (容器)
 

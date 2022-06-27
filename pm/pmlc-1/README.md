@@ -14,15 +14,19 @@
 
 + 内存: 64GB DDR4
 
-+ 存储: (磁盘阵列)
++ 存储:
 
   - 系统盘: 480GB (SSD 480GB x2) RAID-1
 
     btrfs
 
-  - 数据盘: 21TB (3TB x8) RAID-5
+  - 数据盘 (磁盘阵列): 9TB (3TB x4) RAID-5
 
     LVM, swap
+
+  - 数据盘 (非阵列): 12TB (3TB x4)
+
+    LVM
 
 + 网络: 千兆/万兆以太网 (1Gbps, 10Gbps)
 
